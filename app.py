@@ -8,7 +8,7 @@ import verify
 # Load environment variables
 load_dotenv()
 app = Flask(__name__)
-CORS(app, origins=["http://localhost:3000", "https://facial-app-demo.netlify.app", "http://localhost:5173"])
+CORS(app, origins=["http://localhost:3000", "https://facial-app-demo.netlify.app", "http://localhost:5173", "https://staymates.netlify.app"])
 
 KEY = os.getenv("YOUVERSE")  # or your hard-coded key
 YKF.Key.set(KEY)
