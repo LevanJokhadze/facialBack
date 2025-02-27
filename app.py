@@ -67,9 +67,11 @@ def upload_image():
 def process_image(image):
     # Perform face detection and analysis on the image
     detected_faces = YKF.face.process(image=image, processings=["detect", "analyze", "templify"])
-    
-    # Return the detected faces
-    return detected_faces[0]['template']
+
+    if detected_faces[0]:
+        # Return the detected faces
+        return detected_faces[0]['template']
+        
 
 def save_user_data_to_json(name, last_name, age, template):
     # Path to the JSON file where templates are stored
