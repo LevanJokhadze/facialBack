@@ -11,7 +11,6 @@ def verify(template):
     KEY = os.getenv("YOUVERSE")  # or your hard-coded key
     YKF.Key.set(KEY)
     temp = list()
-    tempDict = dict()
 
     BASE_URL = os.getenv("BASE_URL")  # or your hard-coded URL
     YKF.BaseUrl.set(BASE_URL)
@@ -23,14 +22,22 @@ def verify(template):
 
     for i in templates:
         matching_score = YKF.face.verify(i['template'], template)
-        tempDict['name'] = i['name']
-        tempDict['last_name'] = i['last_name']
-        tempDict['age'] = i['age']
-        tempDict['score'] = matching_score
+        tempDict = {
+            'name': i['name'],
+            'last_name': i['last_name'],
+            'age': i['age'],
+            'score': matching_score
+        }
+        print(matching_score)
+
         temp.append(tempDict)
 
-    detect = max(temp, key=lambda score: score['score'])
-    if detect['score'] > 0.7:
+
+
+    detect = max(temp, key=lambda x: x['score'])
+    with open("successed.txt", "a") as file:
+        file.write("\n" +json.dumps(detect) + "\n")  
+    if detect['score'] > 0.5:
         print(detect)
         return detect
     else:

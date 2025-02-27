@@ -77,9 +77,7 @@ def upload_image():
         if detect:
             return jsonify({"status": "success", "message": detect}), 200
         
-        save_user_data_to_json(name, last_name, age, template)
-
-        return jsonify({"error": "Face not found"}), 400
+        return jsonify({"error": "Face not found"}), 401
 
 
     

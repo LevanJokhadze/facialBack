@@ -1,0 +1,191 @@
+{"name": "Levani", "last_name": "Jokhadze", "age": "19", "score": 0.81662}
+
+{"name": "Nugzar", "last_name": "Chubinidze", "age": "19", "score": 0.78434}
+
+{"name": "Levani", "last_name": "Jokhadze", "age": "19", "score": 0.66453}
+
+{"name": "Levani", "last_name": "Jokhadze", "age": "19", "score": 0.83477}
+
+{"name": "Levani", "last_name": "Jokhadze", "age": "19", "score": 0.68288}
+
+{"name": "Levani", "last_name": "Jokhadze", "age": "19", "score": 0.83235}
+
+{"name": "Levani", "last_name": "Jokhadze", "age": "19", "score": 0.68339}
+
+{"name": "Levani", "last_name": "Jokhadze", "age": "19", "score": 0.52598}
+
+{"name": "Nugzar", "last_name": "Chubinidze", "age": "19", "score": 0.70509}
+
+{"name": "Valeri", "last_name": "Giginashvili", "age": "20", "score": 0.63161}
+
+{"name": "Valeri", "last_name": "Giginashvili", "age": "20", "score": 0.61205}
+
+{"name": "Saba", "last_name": "Lomsadze", "age": "20", "score": 0.55052}
+
+{"name": "Saba", "last_name": "Lomsadze", "age": "20", "score": 0.55052}
+
+{"name": "Lasha", "last_name": "Gvaberidze", "age": "19", "score": 0.92194}
+
+{"name": "Levani", "last_name": "Jokhadze", "age": "19", "score": 0.84083}
+
+{"name": "Saba", "last_name": "Lomsadze", "age": "20", "score": 0.80298}
+
+{"name": "Levani", "last_name": "Jokhadze", "age": "19", "score": 0.87552}
+
+{"name": "Levani", "last_name": "Jokhadze", "age": "19", "score": 0.89076}
+
+{"name": "Levani", "last_name": "Jokhadze", "age": "19", "score": 0.89076}
+
+{"name": "Levani", "last_name": "Jokhadze", "age": "19", "score": 0.87134}
+
+{"name": "Levani", "last_name": "Jokhadze", "age": "19", "score": 0.79516}
+
+{"name": "Levani", "last_name": "Jokhadze", "age": "19", "score": 0.83979}
+
+{"name": "Levani", "last_name": "Jokhadze", "age": "19", "score": 0.83979}
+
+{"name": "Levani", "last_name": "Jokhadze", "age": "19", "score": 0.82625}
+
+{"name": "Levani", "last_name": "Jokhadze", "age": "19", "score": 0.82625}
+
+{"name": "Saba", "last_name": "Lomsadze", "age": "20", "score": 0.74442}
+
+{"name": "Nugzar", "last_name": "Chubinidze", "age": "19", "score": 0.80994}
+
+{"name": "Nugzar", "last_name": "Chubinidze", "age": "19", "score": 0.7888}
+
+{"name": "Nugzar", "last_name": "Chubinidze", "age": "19", "score": 0.82433}
+
+{"name": "Nugzar", "last_name": "Chubinidze", "age": "19", "score": 0.81369}
+
+{"name": "Nugzar", "last_name": "Chubinidze", "age": "19", "score": 0.79153}
+
+{"name": "Nugzar", "last_name": "Chubinidze", "age": "19", "score": 0.79622}
+
+{"name": "Nugzar", "last_name": "Chubinidze", "age": "19", "score": 0.81434}
+
+{"name": "Nugzar", "last_name": "Chubinidze", "age": "19", "score": 0.82967}
+
+{"name": "Nugzar", "last_name": "Chubinidze", "age": "19", "score": 0.79378}
+
+{"name": "Nugzar", "last_name": "Chubinidze", "age": "19", "score": 0.78788}
+
+{"name": "Levani", "last_name": "Jokhadze", "age": "19", "score": 0.42628}
+
+{"name": "Levani", "last_name": "Jokhadze", "age": "19", "score": 0.85825}
+
+{"name": "Levani", "last_name": "Jokhadze", "age": "19", "score": 0.85825}
+
+{"name": "Levani", "last_name": "Jokhadze", "age": "19", "score": 0.84121}
+
+{"name": "Levani", "last_name": "Jokhadze", "age": "19", "score": 0.84121}
+
+{"name": "Levani", "last_name": "Jokhadze", "age": "19", "score": 0.86998}
+
+{"name": "Levani", "last_name": "Jokhadze", "age": "19", "score": 0.77092}
+
+{"name": "Levani", "last_name": "Jokhadze", "age": "19", "score": 0.77092}
+
+{"name": "Levani", "last_name": "Jokhadze", "age": "19", "score": 0.8115}
+
+{"name": "Levani", "last_name": "Jokhadze", "age": "19", "score": 0.85542}
+
+{"name": "Levani", "last_name": "Jokhadze", "age": "19", "score": 0.85542}
+
+{"name": "Levani", "last_name": "Jokhadze", "age": "19", "score": 0.79014}
+
+{"name": "Levani", "last_name": "Jokhadze", "age": "19", "score": 0.79014}
+
+{"name": "Levani", "last_name": "Jokhadze", "age": "19", "score": 0.83454}
+
+{"name": "Levani", "last_name": "Jokhadze", "age": "19", "score": 0.81996}
+
+{"name": "Levani", "last_name": "Jokhadze", "age": "19", "score": 0.87006}
+
+{"name": "Levani", "last_name": "Jokhadze", "age": "19", "score": 0.82873}
+
+{"name": "Levani", "last_name": "Jokhadze", "age": "19", "score": 0.82873}
+
+{"name": "Levani", "last_name": "Jokhadze", "age": "19", "score": 0.77048}
+
+{"name": "Levani", "last_name": "Jokhadze", "age": "19", "score": 0.77048}
+
+{"name": "Levani", "last_name": "Jokhadze", "age": "19", "score": 0.82384}
+
+{"name": "Levani", "last_name": "Jokhadze", "age": "19", "score": 0.82384}
+
+{"name": "Levani", "last_name": "Jokhadze", "age": "19", "score": 0.78186}
+
+{"name": "Levani", "last_name": "Jokhadze", "age": "19", "score": 0.78186}
+
+{"name": "Levani", "last_name": "Jokhadze", "age": "19", "score": 0.7754}
+
+{"name": "Levani", "last_name": "Jokhadze", "age": "19", "score": 0.80475}
+
+{"name": "Levani", "last_name": "Jokhadze", "age": "19", "score": 0.79946}
+
+{"name": "Levani", "last_name": "Jokhadze", "age": "19", "score": 0.79946}
+
+{"name": "Levani", "last_name": "Jokhadze", "age": "19", "score": 0.77802}
+
+{"name": "Levani", "last_name": "Jokhadze", "age": "19", "score": 0.77802}
+
+{"name": "Levani", "last_name": "Jokhadze", "age": "19", "score": 0.76599}
+
+{"name": "Levani", "last_name": "Jokhadze", "age": "19", "score": 0.76599}
+
+{"name": "Levani", "last_name": "Jokhadze", "age": "19", "score": 0.80794}
+
+{"name": "Levani", "last_name": "Jokhadze", "age": "19", "score": 0.75294}
+
+{"name": "Saba", "last_name": "Lomsadze", "age": "20", "score": 0.15888}
+
+{"name": "Levani", "last_name": "Jokhadze", "age": "19", "score": 0.80794}
+
+{"name": "Levani", "last_name": "Jokhadze", "age": "19", "score": 0.86055}
+
+{"name": "Levani", "last_name": "Jokhadze", "age": "19", "score": 0.8512}
+
+{"name": "Levani", "last_name": "Jokhadze", "age": "19", "score": 0.81312}
+
+{"name": "Valeri", "last_name": "Giginashvili", "age": "20", "score": 0.35079}
+
+{"name": "Nino", "last_name": "Jokhadze", "age": "21", "score": 0.07345}
+
+{"name": "Levani", "last_name": "Jokhadze", "age": "19", "score": 0.85991}
+
+{"name": "Levani", "last_name": "Jokhadze", "age": "19", "score": 0.86716}
+
+{"name": "Levani", "last_name": "Jokhadze", "age": "19", "score": 0.84228}
+
+{"name": "Levani", "last_name": "Jokhadze", "age": "19", "score": 0.8494}
+
+{"name": "Levani", "last_name": "Jokhadze", "age": "19", "score": 0.81312}
+
+{"name": "Levani", "last_name": "Jokhadze", "age": "19", "score": 0.83473}
+
+{"name": "Levan", "last_name": "Jokhadze", "age": "19", "score": 0.76559}
+
+{"name": "Levan", "last_name": "Jokhadze", "age": "19", "score": 0.75272}
+
+{"name": "Levan", "last_name": "Jokhadze", "age": "19", "score": 0.78927}
+
+{"name": "Levan", "last_name": "Jokhadze", "age": "19", "score": 0.7397}
+
+{"name": "Levan", "last_name": "Jokhadze", "age": "19", "score": 0.71449}
+
+{"name": "Levan", "last_name": "Jokhadze", "age": "19", "score": 0.74884}
+
+{"name": "Dodo", "last_name": "Sachechelashvili", "age": "44", "score": 0.71433}
+
+{"name": "Levan", "last_name": "Jokhadze", "age": "19", "score": 0.75661}
+
+{"name": "Levan", "last_name": "Jokhadze", "age": "19", "score": 0.75534}
+
+{"name": "Levan", "last_name": "Jokhadze", "age": "19", "score": 0.74452}
+
+{"name": "Levan", "last_name": "Jokhadze", "age": "19", "score": 0.80086}
+
+{"name": "Levan", "last_name": "Jokhadze", "age": "19", "score": 0.68332}
+
+{"name": "Levan", "last_name": "Jokhadze", "age": "19", "score": 0.75082}
