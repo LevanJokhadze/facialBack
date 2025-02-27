@@ -29,6 +29,29 @@ app.config['ALLOWED_EXTENSIONS'] = {'png', 'jpg', 'jpeg', 'gif'}
 def allowed_file(filename):
     return '.' in filename and filename.rsplit('.', 1)[1].lower() in app.config['ALLOWED_EXTENSIONS']
 
+@app.route('/save', methods=['POST'])
+def save():
+    if 'file' not in request.files:
+        return jsonify({"error": "No file part"})
+    
+    file = request.files['file']
+    
+    if file.filename == '':
+        return jsonify({"error": "No selected file"})
+    
+    name = request.form.get('first_name')
+    last_name = request.form.get('last_name')
+    age = request.form.get('age')
+
+    filename = os.path.join(app.config['UPLOAD_FOLDER'], file.filename)
+    file.save(filename)
+    template = process_image(filename)
+    if save_user_data_to_json(name, last_name, age, template):
+        return jsonify({"success": "Uploaded Succesfully"})
+    else:
+        return jsonify({"error": "No Upload :9"})
+        
+
 # Route to upload the image
 @app.route('/upload', methods=['POST'])
 def upload_image():
